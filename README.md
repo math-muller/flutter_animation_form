@@ -1,16 +1,9 @@
-# animation_form
+# Animation-Form-Flutter
 
-A new Flutter application.
+<h3>Formulario Animado, utilizando apenas as animaçoes do flutter.</h3>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<blockquote>
+  O sistema de animação no Flutter é baseado em Animation objects. 
+  Os widgets podem incorporar essas animações em suas funções de construção diretamente, 
+  lendo seu valor atual e ouvindo suas alterações de estado, ou podem usar as animações como base para animações mais elaboradas que passam adiante para outros widgets.
+  </blockquote>
